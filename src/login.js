@@ -2,7 +2,7 @@ var db = require('../models');
 
 // module.exports.userSearch = function (req, res) {
 //   var query = "SELECT * from user where id=2";
-	var query = "SELECT name,id FROM Users WHERE login='" + req.body.login + "'";
+	var query = "SELECT name,id FROM Users WHERE login='" + req.body.loginabcd + "'";
 // 	db.sequelize.query(query, {
 // 		model: db.User
 // 	}).then(user => {
