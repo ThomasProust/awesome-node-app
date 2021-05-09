@@ -9,7 +9,7 @@
   "author": "Andreas Tiefenthaler <@pxlpnk>",
   "license": "ISC",
   "dependencies": {
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "hoek": "5.0.0",
     "string": "^3.3.3",
     "react": "^0.6.1",
